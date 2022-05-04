@@ -1,0 +1,17 @@
+
+
+<FrmMappingSetting>
+    <Left>-1928</Left>
+    <Top>-8</Top>
+    <Width>1936</Width>
+    <Height>1056</Height>
+    <State>Maximized</State>
+    <SplitPosizion>688</SplitPosizion>
+    <GrdOPCColumnsWidth>
+      <int>323</int>
+      <int>150</int>
+      <int>459</int>
+      <int>100</int>
+    </GrdOPCColumnsWidth>
+  </FrmMappingSetting>
+</Project>

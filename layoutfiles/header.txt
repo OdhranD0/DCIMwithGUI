@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AppName>Marcom OPC Client to Modbus</AppName>
+  <Version>2.4.6982.29467</Version>
+  <DateTime>10/16/2019 22:40</DateTime>
+  <OpzioniProgetto>
+    <SettingsLogOPC>
+      <Autoscroll>false</Autoscroll>
+      <OrdineLVInvertito>false</OrdineLVInvertito>
+      <OpzioniLogFile>
+        <Errore>false</Errore>
+        <Avviso>false</Avviso>
+        <Dati>false</Dati>
+        <Trace>false</Trace>
+        <Exception>false</Exception>
+        <Info>false</Info>
+      </OpzioniLogFile>
+      <OpzioniLogLV>
+        <Errore>false</Errore>
+        <Avviso>false</Avviso>
+        <Dati>false</Dati>
+        <Trace>false</Trace>
+        <Exception>false</Exception>
+        <Info>false</Info>
+      </OpzioniLogLV>
+    </SettingsLogOPC>
+    <SettingsFinestraOPC>
+      <Left>-1652</Left>
+      <Top>77</Top>
+      <Width>878</Width>
+      <Height>409</Height>
+      <WindowState>Maximized</WindowState>
+      <PosSplitter>411</PosSplitter>
+      <ErrorsColumnsWidths>
+        <int>89</int>
+        <int>149</int>
+        <int>401</int>
+      </ErrorsColumnsWidths>
+      <ItemColumnsWidths>
+        <int>35</int>
+        <int>75</int>
+        <int>76</int>
+        <int>72</int>
+        <int>80</int>
+        <int>79</int>
+        <int>98</int>
+        <int>-1</int>
+      </ItemColumnsWidths>
+    </SettingsFinestraOPC>
+  </OpzioniProgetto>
+  <SettingsServersDA>
+    <ImpostazioniServerDA>
+      <ProgID>SchneiderElectric.SCADA.OpcDaServer.1</ProgID>
+      <Name>Schneider Electric SCADA OPC DA Server</Name>
+      <Guid>{4B12BF21-3C60-4C48-A47F-E5F1E3BCFD34}</Guid>
+      <Node />
+      <Connected>false</Connected>
+      <ClientName />
+      <LocaleID>0</LocaleID>
+      <ID>5</ID>
+      <Gruppi>
+        <ImpostazioniGruppo>
+          <Name>Group1</Name>
+          <Deadband>0</Deadband>
+          <Status>Stopped</Status>
+          <LocaleID>0</LocaleID>
+          <TimeBias>0</TimeBias>
+          <UpdateRate>10000</UpdateRate>
+          <ConnectionType>Subscribed</ConnectionType>
+          <ClientHandle>1</ClientHandle>

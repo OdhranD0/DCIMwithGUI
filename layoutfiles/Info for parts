@@ -1,0 +1,36 @@
+	<Variable>
+	  <DataType>TYPE_INT</DataType>      EXCEL
+	  <Address>1</Address>					EXCEL
+	  <Bit>0</Bit>							EXCEL
+	  <Length>1</Length>
+	  <Description />
+	  <IsWritable>true</IsWritable>
+	  <Name>681</Name>						EXCEL SLave ID
+	</Variable>
+			
+			
+	<ParametersMap1>
+        <string>5</string>                Always Same
+        <string>1</string>					Always Same
+        <string>2</string>					CLIENT ID
+        <string>Value</string>           ALWAYS SAME
+      </ParametersMap1>
+      <ParametersMap2>
+        <string>DCIM</string>				Connection name
+        <string>DCIM_Modbus</string>        mbus area
+        <string>681</string>				Slave ID
+      </ParametersMap2>
+	  
+
+	<ImpostazioniItem>
+	  <ItemID>c1.HVS_A_H01_CB01_P142\LPHD1\EEHealth</ItemID>
+	  <Status>Stopped</Status>
+	  <AccessPath />
+	  <CanonicalDataType>2</CanonicalDataType>              Excel
+	  <RequestedDataType>0</RequestedDataType>				Same
+	  <ClientHandle>2</ClientHandle>						CLIENT ID
+	  <AccessRights>READWRITEABLE</AccessRights>            ALways Same
+	</ImpostazioniItem>
+	
+	
+	<ImpostazioniItem><ItemID>c1.test1</ItemID><Status>Stopped</Status><AccessPath /><CanonicalDataType>11</CanonicalDataType><RequestedDataType>0</RequestedDataType><ClientHandle>1001/ClientHandle><AccessRights>READWRITEABLE</AccessRights></ImpostazioniItem>

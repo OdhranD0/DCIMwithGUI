@@ -1,0 +1,20 @@
+
+	  </Items>
+	  </ImpostazioniGruppo>
+      </Gruppi>
+    </ImpostazioniServerDA>
+  </SettingsServersDA>
+  <SettingsServersAE />
+  <Slaves>
+    <ModbusSlave>
+      <Name>DCIM</Name>
+      <Description />
+      <ConnectionType>TCP</ConnectionType>
+      <LocalPort>502</LocalPort>
+      <SerialPort>1</SerialPort>
+      <BaudRate>9600</BaudRate>
+      <DataBits>8</DataBits>
+      <StopBits>One</StopBits>
+      <Parity>None</Parity>
+      <ReadIntervalTimeout>5</ReadIntervalTimeout>
+      <MemoryAreas>

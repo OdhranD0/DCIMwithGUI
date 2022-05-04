@@ -1,0 +1,5 @@
+   
+	  </MemoryAreas>
+      <MaxByteData>250</MaxByteData>
+    </ModbusSlave>
+  </Slaves>
