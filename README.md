@@ -18,7 +18,7 @@ To run the software open the DCIM_Converter folder and run DCIM_Gui.exe
 The software takes in an excel sheet in the correct format (see import template) and converts it to an o2m file to be used with marcom software.
 Operates by writing to multiple text files then combining them.
 
-Certatin files will not change and are located in layout files folder.
+Certain files will not change and are located in layout files folder.
 
 Latest Release for Marcom Software is 2.57.
 
